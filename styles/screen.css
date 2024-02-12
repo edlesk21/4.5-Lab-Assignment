@@ -46,7 +46,7 @@ main {
 }
 
 .title.big{
-    margin-top: 50px;
+    margin-top: 50px; 
     font-size: 2em;
     font-weight: bold;
     color: vars(--background-colors);
@@ -73,3 +73,7 @@ main {
 .AU{
     margin-top: 10px;
   }
+
+.mod:hover{
+    color: red;
+}
